@@ -1,31 +1,20 @@
-# [CDV04] Custom Cover Letter for Junior React Developer Role
 
-Welcome to the GitHub repository for the [CDV04] project, where students are tasked with crafting a compelling cover letter specifically tailored for the Junior React Developer position at Vulindlela. This project is designed to help you articulate your enthusiasm, suitability, and technical capabilities for this role, highlighting how your background aligns with Vulindlela's mission and the job requirements.
+    Please note i havent been able to submit via Google. I have ran out ouf space.
 
-## Project Overview
+My name is Tracy Lethoko, and I am a Software Developer based in Johannesburg. I am excited to apply for the Junior React Developer position at Vulindlela, as I am passionate about building impactful digital solutions and contributing to innovative payment technologies.
 
-Your objective is to write a professional and personalised cover letter that enhances your application for the Junior React Developer position at Vulindlela. This document should serve as a direct communication channel between you and the hiring team, allowing you to make a memorable first impression.
+I have hands-on experience in JavaScript, HTML, CSS, and building web applications, including a meter reading system with user portals and database integration. Through my training at WeThinkCode_ and current studies at CodeSpace, I have developed strong problem-solving skills, experience with Git, APIs, and agile development practices. I am continuously growing my React skills and enjoy building responsive, user-focused interfaces.
 
-### Job Advert: Vulindlela
-- **Position:** Junior React Developer
-- **Company:** Vulindlela
-- **Location:** Johannesburg, South Africa
+I am particularly drawn to Vulindlela’s mission to revolutionise digital payments in South Africa, and I am eager to contribute to your team while growing in a fast-paced startup environment.
 
-Vulindlela is seeking a talented and motivated Junior React Developer to assist in developing their innovative online payments platform. This role offers an exciting opportunity to contribute to the digital payments revolution in South Africa.
+Thank you for considering my application. I would welcome the opportunity to discuss how I can add value to your team.
 
-### Project Objectives
-- Demonstrate your enthusiasm and suitability for the Junior React Developer role.
-- Highlight how your skills and aspirations align with the company's mission and the demands of the role.
-- Create a professional and personalised cover letter that sets you apart from other candidates.
+Kind regards,
+Tracy Lethoko
+065 809 0739
 
-### Submission Guidelines
-1. Finalise your cover letter in a Google Docs format.
-2. Name your document as per the given format (e.g., "StudentNo_Classcode_Group_Name-Surname_CDV04").
-3. Add the link to your Google Docs cover letter in this README.
-4. Submit the link to your GitHub Repo via the LMS Project Tab by the deadline.
+Lethoko.tracy@gmail.com
 
-### Link to Cover Letter
-[Your Google Docs Cover Letter](<insert your Google Docs link here>)
+LinkedIn: https://www.linkedin.com/in/tracylethoko
 
-For detailed project instructions, including the job description and specific sections to include in your cover letter, please refer to the provided project brief on the LMS.
-
+GitHub: https://github.com/MissTracy
